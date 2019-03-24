@@ -1,0 +1,50 @@
+fred-wilson,toronto-pearson-international-airport-yyz-mississa,2010-10-06T12:30:53,43.68252212,-79.6138429642,Mississauga,Travel:Airport
+fred-wilson,marche-restaurant-toronto,2010-10-06T12:55:01,43.647688,-79.3773239,Toronto,Food:Café
+fred-wilson,xtreme-labs-toronto,2010-10-06T14:08:09,43.6488689,-79.3777588,Toronto,Home / Work / Other:Corporate / Office:Tech Startup
+fred-wilson,scotiabank-theatre-toronto-toronto,2010-10-06T16:23:06,43.648927,-79.3913261,Toronto,Arts & Entertainment:Movie Theater
+fred-wilson,scotiabank-theatre-toronto-toronto,2010-10-06T16:40:02,43.648927,-79.3913261,Toronto,Arts & Entertainment:Movie Theater
+fred-wilson,laguardia-airport-lga-queens,2010-10-06T22:36:44,40.7743018636,-73.8719201088,Queens,Travel:Airport
+fred-wilson,brooklyn-bowl-brooklyn,2010-10-06T23:10:18,40.7219188016,-73.9574959874,Brooklyn,Arts & Entertainment:Bowling Alley
+fred-wilson,cafe-de-la-paix-le-paris,2010-03-30T09:12:28,48.8705904,2.3320327,Paris,Food:French
+fred-wilson,centre-georges-pompidou-paris,2010-03-30T11:26:05,48.861465,2.351572,Paris,Arts & Entertainment:Museum:Art
+fred-wilson,marche-des-enfants-rouges-paris,2010-03-30T12:09:27,48.8628874,2.3624992,Paris,Shops:Food & Drink
+ben-parr,clift-hotel-san-francisco,2010-09-10T05:08:22,37.786841,-122.4112062,San Francisco,Travel:Hotel
+ben-parr,letterman-digital-arts-center-san-francisco,2010-09-11T00:00:48,37.7983751,-122.4508066,San Francisco,Parks & Outdoors:Park
+ben-parr,cigar-bar-grill-san-francisco,2010-09-11T06:02:47,37.7972,-122.403,San Francisco,Nightlife:Bar
+ben-parr,us-post-office-pine-street-san-francisco,2010-09-11T18:47:46,37.790065,-122.41925,San Francisco,Home / Work / Other:Post Office
+ben-parr,crunch-fitness-san-francisco,2010-09-11T23:32:11,37.798321,-122.421838,San Francisco,Home / Work / Other:Gym / Fitness:Yoga Studio
+ben-parr,crunch-fitness-san-francisco,2010-08-15T17:13:11,37.798321,-122.421838,San Francisco,Home / Work / Other:Gym / Fitness:Yoga Studio
+ben-parr,outside-lands,2010-08-15T21:00:11,37.7687132418,-122.491335869,NULL,Arts & Entertainment:Music Venue
+ben-parr,macworld-2010-san-francisco,2010-02-11T20:18:19,37.784312,-122.40167,San Francisco,Home / Work / Other:Convention Center
+ben-parr,peets-coffee-tea-san-francisco,2010-02-11T01:24:05,37.78939,-122.400996,San Francisco,Food:Café
+ben-parr,yahoo-sunnyvale-sunnyvale,2010-02-10T17:26:02,37.4194497,-122.0300744,Sunnyvale,Home / Work / Other:Corporate / Office
+ben-parr,alpha-omega-winery-rutherford,2010-02-07T05:00:06,38.470067,-122.429219,Rutherford,Food:Winery
+ben-parr,mumm-napa-rutherford,2010-02-06T22:08:07,38.477361,-122.39442,Rutherford,Food:Winery
+ben-parr,in-n-out-burger-pinole,2010-02-06T19:23:25,37.98925,-122.310833,Pinole,Food:Burgers
+ben-parr,the-coffee-bean-tea-leaf-san-francisco,2010-02-05T21:50:55,37.7861328,-122.4053089,San Francisco,Food:Tea Room
+ben-parr,macyscom-san-francisco,2010-02-05T19:50:50,37.7876,-122.403,San Francisco,Home / Work / Other:Corporate / Office
+ben-parr,starbucks-san-francisco,2010-02-05T19:44:41,37.789663,-122.402018,San Francisco,Food:Coffee Shop
+ben-parr,facebook-hq-palo-alto,2010-02-05T01:53:26,37.4159477566,-122.151961327,Palo Alto,Home / Work / Other:Corporate / Office:Tech Startup
+ben-parr,tech-and-beer-house-mountain-view,2010-02-02T20:37:18,37.397717,-122.078702,Mountain View,Nightlife:Speakeasy / Secret Spot
+ben-parr,barneys-beanery-west-hollywood,2010-01-30T05:40:04,34.0908383516,-118.374724388,West Hollywood,Nightlife:Karaoke
+ben-parr,flemings-prime-steakhouse-los-angeles,2010-01-29T20:49:54,34.0448477733,-118.264413178,Los Angeles,Food:Steakhouse
+shaherose-charania,regal-dole-cannery-stadium-18-imax-honolulu,2010-10-19T21:44:14,21.31588,-157.870488,Honolulu,Arts & Entertainment:Movie Theater:Cineplex
+shaherose-charania,morimoto-waikiki-at-edition-honolulu,2010-10-21T05:01:35,21.28488,-157.839039,Honolulu,Food:Japanese
+shaherose-charania,honolulu-international-airport-hnl-honolulu,2010-10-21T09:04:02,21.3320739891,-157.918467522,Honolulu,Travel:Airport:Plane
+shaherose-charania,trader-joes-san-francisco,2010-10-22T00:36:19,37.770627,-122.407666,San Francisco,Shops:Food & Drink:Grocery / Supermarket
+shaherose-charania,true-ventures-pier-38-san-francisco,2010-10-22T02:41:29,37.7823227,-122.3880642,San Francisco,Home / Work / Other:Corporate / Office
+shaherose-charania,funky-door-yoga-nob-hill-san-francisco,2010-07-21T14:40:45,37.789322,-122.420203,San Francisco,Home / Work / Other:Gym / Fitness
+shaherose-charania,computer-history-museum,2010-07-22T18:09:50,37.415475,-122.077705,NULL,Arts & Entertainment:Museum:Science
+shaherose-charania,opinno-san-francisco-san-francisco,2010-07-27T16:00:52,37.782621,-122.386966,San Francisco,Home / Work / Other:Corporate / Office:Coworking Space
+shaherose-charania,true-ventures-pier-38-san-francisco,2010-07-29T03:00:12,37.7823227,-122.3880642,San Francisco,Home / Work / Other:Corporate / Office
+shaherose-charania,susiecakes-san-francisco,2010-07-08T22:59:26,37.800487,-122.438191,San Francisco,Food:Desserts
+shaherose-charania,opinno-san-francisco-san-francisco,2010-07-08T17:19:42,37.782621,-122.386966,San Francisco,Home / Work / Other:Corporate / Office:Coworking Space
+shaherose-charania,the-iron-cactus-san-francisco,2010-07-07T19:05:52,37.7773054,-122.3952203,San Francisco,Food:Mexican
+shaherose-charania,funky-door-yoga-nob-hill-san-francisco,2010-07-07T14:47:25,37.789322,-122.420203,San Francisco,Home / Work / Other:Gym / Fitness
+shaherose-charania,bikram-yoga-barcelona,2010-06-18T12:08:08,41.3911329,2.1692389,Barcelona,Home / Work / Other:Gym / Fitness:Yoga Studio
+shaherose-charania,trump-soho-hotel-new-york,2010-06-07T20:53:44,40.725301,-74.005412,New York,Travel:Hotel:Roof Deck
+shaherose-charania,tekserve-new-york,2010-06-07T18:02:09,40.743266,-73.993564,New York,Shops:Technology
+shaherose-charania,lirr-penn-station-new-york,2010-06-07T16:48:32,40.7507357097,-73.9938640594,New York,Travel:Train Station:Train
+shaherose-charania,union-station-washington,2010-06-07T13:11:21,38.8977798696,-77.0064353943,Washington,Travel:Train Station
+shaherose-charania,eighteenth-street-lounge-washington,2010-06-06T17:36:11,38.906213,-77.042059,Washington,Nightlife:Nightclub / Discotheque
+shaherose-charania,rasika-washington,2010-06-06T00:51:28,38.8948897002,-77.0213136077,Washington,Nightlife:Lounge
